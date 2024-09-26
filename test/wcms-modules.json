@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
+        "test": {
             "name": "test",
             "repo": "https://github.com/Kx1z0/test/tree/main",
             "zip": "https://github.com/Kx1z0/test/archive/refs/heads/main.zip",
