@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "sky": {
+            "name": "test",
+            "repo": "https://github.com/Kx1z0/test/tree/main",
+            "zip": "https://github.com/Kx1z0/test/archive/refs/heads/main.zip",
+            "summary": "Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
+            "version": "3.2.3",
+            "image": "https://raw.githubusercontent.com/Kx1z0/test/test/master/preview.jpg"
+        }
+    }
+}
